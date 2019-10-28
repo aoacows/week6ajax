@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.container{
+    background-image: url("/1.jpg");
+    color: blanchedalmond;
+}
